@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Welcome to my page [Vennah Lavinia Magbanua] </p>
+    <p>Welcome to my page [Vennah Lavinia Magbanua]</p>
 </body>
 </html>
